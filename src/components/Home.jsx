@@ -1,15 +1,6 @@
 import axios from "axios";
 import React, { useEffect, useState } from "react";
-import {
-  Accordion,
-  Button,
-  Card,
-  Container,
-  Dropdown,
-  Form,
-  InputGroup,
-  Stack,
-} from "react-bootstrap";
+import { Accordion, Container, Stack } from "react-bootstrap";
 import { AiFillStar } from "react-icons/ai";
 import Search from "./Search";
 
