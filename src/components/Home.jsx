@@ -63,23 +63,3 @@ const Home = () => {
 };
 
 export default Home;
-
-{
-  /* <Dropdown className="mt-2 d-grid gap-2" size="lg" style={{marginBottom: '20px'}}>
-            <Dropdown.Toggle id="dropdown-button-dark-example1" variant="secondary" >
-              {d.owner.login}
-            </Dropdown.Toggle>
-    
-            <Dropdown.Menu variant="dark" style={{marginBottom: '50px'}}>
-            <Card style={{ width: '18rem', backgroundColor: 'grey' }}>
-          <Card.Body>
-            <Card.Title>{d.name}</Card.Title>
-            <Card.Subtitle className="mb-2 text-muted">Card Subtitle</Card.Subtitle>
-            <Card.Text>
-             {d.description}
-            </Card.Text>
-          </Card.Body>
-        </Card>
-            </Dropdown.Menu>
-          </Dropdown>  */
-}
